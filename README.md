@@ -1,29 +1,54 @@
-# P2Front
+# P2FrontEnd - Aplicação Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📋 Descrição do Projeto
 
-## Recommended IDE Setup
+Este é um projeto frontend desenvolvido com Vue.js e Vite para a disciplina de Front-End. A aplicação mostra um sistema de e-commerce com as seguintes funcionalidades:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Listagem de produtos
+- Visualização de detalhes dos produtos
+- Adição de produtos ao carrinho
+- Visualização e edição do carrinho de compras
+- Registro de compras realizadas
+- Navegação entre diferentes páginas através de Vue Router
+- Uso de armazenamento de estado com Pinia
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🚀 Como rodar a aplicação localmente
 
-## Project Setup
+### ✅ Pré-requisitos
 
-```sh
+- Node.js instalado (versão 16 ou superior)
+- npm (gerenciador de pacotes do Node)
+
+### 🔧 Instalação das dependências
+
+1. Acesse o diretório do projeto:
+
+```bash
+cd P2Front
+```
+
+2. Instale as dependências:
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### ▶️ Rodando o projeto
 
-```sh
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+A aplicação será iniciada em `http://localhost:5173` (ou porta similar indicada pelo terminal).
 
-```sh
-npm run build
-```
+---
+
+---
+
+## 👨‍💻 Participantes
+
+- Nome do Participante: Jhuan Gustavo Pereira Costa- 1993392
+- Nome do Participante Silvio Alex de Souza leal -2001906 
+
